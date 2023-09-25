@@ -8,7 +8,7 @@ As a result, business organizations developed a "traumatic disorder" in respect 
 
 # Purpose
 
-The purpose of this experiment is to evaluate Enterprise Architecture modeling could be streamlined by easily integrating already existing architecture knowledege, managed in a de-centralized form by different teams and organizations, reusing as "building blocks" to be reused, enriched, modified to address the need of a given organization. Same examples:
+The purpose of this experiment is to evaluate the acceleration of Enterprise Architecture modeling value delivery through federation with already existing architecture-knowledege, which is managed in a de-centralized form by different teams and organizations. It would allowthe reuse of architecture as "building blocks" to enriched and expanded to address the need of a given organization. Same examples:
 
 * Business Capability Models: ACORD, APQC, ISACA COBIT, The Open Group IT4IT
 * Technology Services: Amazon AWS, Microsoft Azure, Google Cloud
@@ -30,6 +30,7 @@ Still being developed, it will address how can the community get involved.
 # Useful resources
 
 Still being developed, it will cover topics such as where can the community find your docs or anything else the community should know.
+
 
 
 
