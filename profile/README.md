@@ -43,11 +43,15 @@ using the following technologies
 
 Still being developed, it will address how can the community get involved.
 
+* [Guide to Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 # Useful resources
 
 Still being developed, it will cover topics such as where can the community find your docs or anything else the community should know.
 
+# Licenses, Copyrights, Registered Trademarks
+
+[ArchiMate® is a registered trademark of The Open Group.](https://www.opengroup.org/archimate-forum/archimate-overview)
 
 
 
-[Guide to Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
