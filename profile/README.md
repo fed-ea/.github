@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 # Motivations
 
 To some extent, every single architecture initiative that is based on an Enterprise Architecture model starts from scratch, and typically locked to an software tool or service. Through the selected tool, an architecture metamodel is defined (or adopted from standards like Archimate®), architecture domains are identified, template diagrams are developed, and architecture data to be used is identified, activities that become as time consuming as the architecture initiative itself, before the actual work starts.
@@ -33,12 +20,17 @@ The purpose of this experiment is to evaluate Enterprise Architecture modeling c
 This experiment will be using small set of architectural guiding principles:
 
 * It will not re-invent the wheel - leverage existing standards and approaches
-* It will leverage Archimate® modeling language - it is the most prevalent across EA practitioner community
+* Leverage Archimate® modeling language - it is the most prevalent across EA practitioner community
+* Decoupled from existing commercial product - based on Open Source to allow unrestricted usege
 
-# Contribution guidelines - how can the community get involved?
+# Contribution guidelines
 
-* Still in progress
+Still being developed, it will address how can the community get involved.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+# Useful resources
+
+Still being developed, it will cover topics such as where can the community find your docs or anything else the community should know.
+
+
+
+[Guide to Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
