@@ -8,7 +8,7 @@ As a result, business organizations developed a "traumatic disorder" in respect 
 
 # Purpose
 
-The purpose of this experiment is to evaluate the acceleration of Enterprise Architecture modeling value delivery through federation with already existing architecture-knowledege, which is managed in a de-centralized form by different teams and organizations. It would allowthe reuse of architecture as "building blocks" to enriched and expanded to address the need of a given organization. Same examples:
+The purpose of this experiment is to evaluate the acceleration of Enterprise Architecture modeling value delivery through federation with already existing architecture-knowledege, which is managed in a de-centralized form by different teams and organizations. It would allow the reuse of architecture as "building blocks" to enriched and expanded to address the need of a given organization. Same examples:
 
 * Business Capability Models: ACORD, APQC, ISACA COBIT, The Open Group IT4IT
 * Technology Services: Amazon AWS, Microsoft Azure, Google Cloud
@@ -17,11 +17,27 @@ The purpose of this experiment is to evaluate the acceleration of Enterprise Arc
 
 # How
 
-This experiment will be using small set of architectural guiding principles:
+## This experiment has as small set of architectural guiding principles:
 
+* Develop a set of best practices, specifications and proof-of-concept implementations
 * It will not re-invent the wheel - leverage existing standards and approaches
 * Leverage Archimate® modeling language - it is the most prevalent across EA practitioner community
-* Decoupled from existing commercial product - based on Open Source to allow unrestricted usege
+* Decoupled from existing commercial product - based on Open Source technologies to allow unrestricted usage
+
+## Proof-of-Concept Implementations
+
+* Exchange file format, supporting federated architecture information
+* Library for import of Archimate® Exchange File Format
+* Library for visualization of federated architecture models
+* Library for basic architecture modeling functions
+* Factory/class for in-memory architecture model storage
+
+using the following technologies 
+
+* Typescript and JSON Schema, for typings
+<--
+* OpenAPI, for remote access
+-->
 
 # Contribution guidelines
 
