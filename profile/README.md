@@ -27,7 +27,7 @@ The purpose of this experiment is to evaluate the acceleration of Enterprise Arc
 ## Proof-of-Concept Implementations
 
 * Exchange file format, supporting federated architecture information
-* Library for import of Archimate® Exchange File Format
+* Library for import of ArchiMate® Exchange File Format
 * Library for visualization of federated architecture models
 * Library for basic architecture modeling functions
 * Factory/class for in-memory architecture model storage
@@ -51,7 +51,7 @@ Still being developed, it will cover topics such as where can the community find
 
 # Licenses, Copyrights, Registered Trademarks
 
-[ArchiMate® is a registered trademark of The Open Group.](https://www.opengroup.org/archimate-forum/archimate-overview)
+* [ArchiMate® is a registered trademark of The Open Group.](https://www.opengroup.org/archimate-forum/archimate-overview)
 
 
 
