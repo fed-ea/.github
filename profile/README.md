@@ -35,7 +35,7 @@ The purpose of this experiment is to evaluate the acceleration of Enterprise Arc
 using the following technologies 
 
 * Typescript and JSON Schema, for typings
-<--
+<!--
 * OpenAPI, for remote access
 -->
 
