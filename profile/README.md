@@ -28,16 +28,17 @@ Check list of [frameworks](frameworks.md) and [data sources](data-sources.md) co
 
 ## Proof-of-Concept Implementations
 
-* Exchange file format, supporting federated architecture information
-* Library for import of ArchiMate® Exchange File Format
-* Library for visualization of federated architecture models
-* Library for basic architecture modeling functions
-* Factory/class for in-memory architecture model storage
+* Federation file format (FFF), supporting federated architecture information (TypeScript Types, JSON Schema)
+* Library for basic architecture modeling functions (TypeScript Base Class)
+* Library for import of ArchiMate® Exchange File Format into FFF (TypeScript)
+* Reference implementation for visualization of federated ArchiMate® Views (TypeScript React Function)
+* Reference implementation for in-memory architecture model storage (TypeScript Factory/Class)
 
+<!--
 using the following technologies 
 
 * Typescript and JSON Schema, for typings
-<!--
+
 * OpenAPI, for remote access
 -->
 
