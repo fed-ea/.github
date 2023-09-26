@@ -15,6 +15,8 @@ The purpose of this experiment is to evaluate the acceleration of Enterprise Arc
 * Implementation: PMI PMBok
 * Applications: ServiceNow CMDB
 
+Check list of [frameworks](frameworks.md) and [data sources](data-sources.md) considered to be represented by Fed-EA and federated into enteprise architecure modeling.
+
 # How
 
 ## This experiment has as small set of architectural guiding principles:
