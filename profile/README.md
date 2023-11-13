@@ -2,7 +2,7 @@
 
 To some extent, every single architecture initiative that is based on an Enterprise Architecture model starts from scratch, and typically locked to an software tool or service. Through the selected tool, an architecture metamodel is defined (or adopted from standards like Archimate®), architecture domains are identified, template diagrams are developed, and architecture data to be used is identified, activities that become as time consuming as the architecture initiative itself, before the actual work starts.
 
-It feels like a significant amount of effort even before the first architecture artifact is captured. The metaphor I to use is that "the construction of road that takes us to the to-be built facility is bigger than the facility itself". 
+It feels like a significant amount of effort even before the first architecture artifact is captured. The metaphor I to use is that "the construction of road that takes us to the to-be built facility is bigger than the facility itself".
 
 As a result, business organizations developed a "traumatic disorder" in respect to architecture initiatives, perceiving the benefits being small than the effort and costs. Often enterprise architecture teams are assembled and disassembled due to their perceived cost/benefit, and organizations unknowingly (or accepting it) loose tacit and coded knowledge of their business, information and technnology architectures.
 
@@ -34,8 +34,12 @@ Check list of [frameworks](frameworks.md) and [data sources](data-sources.md) co
 * Reference implementation for visualization of federated ArchiMate® Views (TypeScript React Function)
 * Reference implementation for in-memory architecture model storage (TypeScript Factory/Class)
 
+## Roadmap
+
+Envisioned [evolution](roadmap.md) of functionality, including user feedback.
+
 <!--
-using the following technologies 
+using the following technologies
 
 * Typescript and JSON Schema, for typings
 
@@ -55,6 +59,3 @@ Still being developed, it will cover topics such as where can the community find
 # Licenses, Copyrights, Registered Trademarks
 
 * [ArchiMate® is a registered trademark of The Open Group.](https://www.opengroup.org/archimate-forum/archimate-overview)
-
-
-
