@@ -36,7 +36,7 @@ Check list of [frameworks](frameworks.md) and [data sources](data-sources.md) co
 
 ## Roadmap
 
-Envisioned [evolution](roadmap.md) of functionality, including user feedback.
+Envisioned [evolution](profile/roadmap.md) of functionality, including user feedback.
 
 <!--
 using the following technologies
